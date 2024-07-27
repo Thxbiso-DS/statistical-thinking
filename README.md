@@ -62,7 +62,7 @@
 
 ## Author 
 Thabiso Mokgete  
-* thabiso.mokgete@umuzi.org
+* s.mokgete@gmail
 
 ## License 
 Copyright © 2023 [Thabiso Mokgete](https://github.com/Thxbiso-DS).<br />
